@@ -1,6 +1,11 @@
 
 /* /////////////  Your leopard-print, responsive, beautiful, fantastic CSS goes here!  //////////////// */
 
+body {
+	padding-top: 70px;
+}
+
+
 .hotpink {
 	background-color: hotpink;
 }
